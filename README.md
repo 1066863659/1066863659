@@ -1,4 +1,11 @@
 ## Hi there 👋
+bem vindos ao meu perfil
+
+meu nome é Jonas Felipe
+
+estou estudando no alura
+
+ultilizo esse espeço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
 <!--
 **1066863659/1066863659** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
